@@ -12,7 +12,7 @@ export default function Contact() {
     const data = new FormData(form)
 
     try {
-      const res = await fetch("https://formspree.io/f/YOUR_FORM_ID", {
+      const res = await fetch("https://formspree.io/f/mnjrglqk", {
         method: "POST",
         body: data,
         headers: { Accept: "application/json" },
@@ -105,7 +105,7 @@ export default function Contact() {
             <input
               name="name"
               required
-              placeholder="Nguyen Van B"
+              placeholder="Enter your full name"
               style={inputStyle}
               onFocus={(e) => (e.currentTarget.style.borderColor = "#6366f1")}
               onBlur={(e) => (e.currentTarget.style.borderColor = "hsl(var(--border))")}
