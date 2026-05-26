@@ -5,7 +5,7 @@ import Navbar from "@/components/layout/Navbar"
 import Footer from "@/components/layout/Footer"
 
 export const metadata: Metadata = {
-  title: "Your Name | BA & Automation Specialist",
+  title: "Trần Quốc Thịnh | BA & Automation Specialist",
   description: "Business Analyst chuyên về n8n, AI Workflow, Google Apps Script.",
 }
 
