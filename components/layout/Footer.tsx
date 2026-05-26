@@ -29,7 +29,7 @@ export default function Footer() {
         </div>
 
         <p style={{ fontSize: "13px", color: "hsl(var(--muted-foreground))", margin: 0 }}>
-          © 2025 Nguyen Van A · Built with Next.js & ☕
+          © 2025 Trần Quốc Thịnh · Built with Next.js & ☕
         </p>
       </div>
     </footer>

@@ -134,7 +134,7 @@ export default function Hero() {
             color: "hsl(var(--foreground))",
           }}
         >
-          Nguyen Van A
+          Trần Quốc Thịnh
         </h1>
 
         {/* Typing */}
